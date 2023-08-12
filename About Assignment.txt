@@ -1,0 +1,24 @@
+Respected Sunbasedata company , my self Ashutosh Shewalkar , i have attempeted the given problems..
+
+In this Project i have tried to work on both problems 
+1. API fetch using REST from given url 
+2. Circles and line renderer assignment 
+
+----****  Key points and challanges faced by me in completing this Project. ****----
+
+A) Circles Assignment was Correctly completed and ready to use .
+
+B) Withing my knowledge i tried to complete circles one correctly . but API REST using URL  cannot be completed in time . My logic for implementing this particular problem is not sufficient for now . 
+So in the 1st Assignment, we are fetching data properly with population of dropdown list /filtering of data using their positions . 
+But popup menu is not functional/ Data is not populated . 
+I hope you will consider this . 
+
+C) The UI can be improved as i just overlooked on the UI part a bit , because i wanted to make the functionallity right . 
+
+Thankyou . 
+
+
+
+Unity Version used - 2022.3.7f1
+Unity template used - 2D(URP)Core 
+Import using Assets ->Import Package -> Custom Package -> Ashutosh SunbaseData Assignment.unitypackage (file)
