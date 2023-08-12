@@ -18,7 +18,8 @@ C) The UI can be improved as i just overlooked on the UI part a bit , because i 
 Thankyou . 
 
 
-
+Note - 
 Unity Version used - 2022.3.7f1
 Unity template used - 2D(URP)Core 
 Import using Assets ->Import Package -> Custom Package -> Ashutosh SunbaseData Assignment.unitypackage (file)
+Add circleLayerMask in Layers section , and also Add Circle in Tag section before starting as it may give circle collider error
