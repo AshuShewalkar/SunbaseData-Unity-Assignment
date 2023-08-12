@@ -1,4 +1,4 @@
-Respected Sunbasedata company , my self Ashutosh Shewalkar , i have attempeted the given problems..
+Respected Sunbasedata company , my self Ashutosh Shewalkar , i have attempeted the given problems given by you as an Assignment..
 
 In this Project i have tried to work on both problems 
 1. API fetch using REST from given url 
